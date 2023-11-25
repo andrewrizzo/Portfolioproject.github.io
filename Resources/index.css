@@ -1,0 +1,47 @@
+.header {
+    position: sticky;
+    background-color: white;
+    width: 100%;
+    margin: 0;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 92px;
+}
+.nav {
+    color: black;
+}
+
+
+li {
+    text-decoration: underline;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/* 300px */
+#img {
+    height: 300px;
+    margin-left: 150px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+#section-1 {
+    width: 100%;
+    height: auto;
+    align-items: center;
+    display: flex;
+}
+h2 {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    color: black;
+}
+body {
+    font-size: large;
+}
